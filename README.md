@@ -1,6 +1,7 @@
 ### Introduction
 
-Media Renamer is a tool designed to help organize media files (photos and videos) within a directory by renaming them based on their creation dates. Here's a summary of what it does:
+Media Renamer is a tool designed to help organize media files (photos and videos) within a directory by renaming them based on their creation dates.
+The program is crafted to accommodate both manual interaction for one-time use and automated scheduling for script execution.
 
 1. **Identification of Media Files**: It scans the current directory for media files such as photos (.jpg, .jpeg, .png, .webp, .arw) and videos (.mp4, .mov, .mkv) and counts the number of each type found.
 
