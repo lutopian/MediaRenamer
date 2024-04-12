@@ -6,7 +6,7 @@ Media Renamer is a tool designed to help organize media files (photos and videos
 
 2. **Extraction of Creation Dates**: For each media file, it attempts to extract the creation date. It first tries to retrieve the date from the EXIF metadata embedded in the media file. If the EXIF data is unavailable or cannot be read, it falls back to the file creation date.
 
-3. **Renaming Process**: It renames each media file with a new filename format consisting of the creation date and a serial number. If multiple media files were created on the same date, they are numbered sequentially.
+3. **Renaming Process**: It renames each media file with a new filename format consisting of the creation date and a serial number. If multiple media files were created on the same date, they are numbered chronologically.
 
 4. **User Interaction**:
     - Before proceeding with the renaming process, it initiates a countdown, allowing the user to abort the operation by pressing Ctrl+C.
